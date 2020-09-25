@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.emoji {
+  text-align: center;
+}
+body {
+  background-color: #341f97;
+}
+h1 {
+  color: white;
+  font-family: lato;
+  text-align: center;
+}
+strong {
+  color: white;
+}
+.text {
+  color: white;
+}
+.horizontal {
+  width: 100%;
+}
+.area {
+  margin-left: 535px;
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .area {
+    margin-left: 70px;
+  }
+}
